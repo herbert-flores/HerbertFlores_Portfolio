@@ -1,2 +1,2 @@
 # HerbertFlores_Portfolio
-Web/Software developer portfolio
+Web/Software developer
